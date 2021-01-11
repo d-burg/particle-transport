@@ -1,0 +1,1 @@
+# particle-transport - modeling of particle injection, diffusion and losses from galactic accelerators such as pulsar wind nebulae and supernova remnants. Use of various modeling packages, all of which necessitate their own citations.
